@@ -1,0 +1,13 @@
+background(#000080);
+size(700, 500);
+fill(#FFA500);
+text("ik heb 2.1 hieronder gemaakt, alleen je kan het niet zien omdat het print commands zijn die nog geen taak hebben", 10, 40);
+text("meteen maar opdracht 2.3 maken toch", 10,130);
+text("ik ga nu aan de slag met opdracht 2.4", 10, 260);
+println("dit is de println function");
+print("nu begint de volgende string op een nieuwe regel");
+println("deze staat nog achter de vorige lijn");
+print("dit zou een nieuwe witregel moeten zijn, een witregel met tekst o_0");
+println("hopen dat...");
+println("dit genoeg is voor de opdracht met print en println");
+print("dit was opgave 2.1");

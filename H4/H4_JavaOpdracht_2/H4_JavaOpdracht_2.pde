@@ -1,0 +1,12 @@
+int som1 =15%2;
+int som2 =31%5;
+int som3 =10%5;
+int som4 =38%4;
+String uitkomst1=String.format("Uitkomst is %x", som1);
+String uitkomst2=String.format("Uitkomst is %x", som2);
+String uitkomst3=String.format("Uitkomst is %x", som3);
+String uitkomst4=String.format("Uitkomst is %x", som4);
+println(uitkomst1);
+println(uitkomst2);
+println(uitkomst3);
+println(uitkomst4);
